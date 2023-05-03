@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/helenaxu924/test-api/issues"
   },
-  "homepage": "https://github.com/helenaxu924/test-api#readme"
+  "homepage": "https://github.com/helenaxu924/test-api#readme",
+  "dependencies": {
+    "knope": "^1.1.2"
+  }
 }
